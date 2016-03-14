@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDar">#1976D2</color>
+    <color name="accent">#FFF</color>
+    <color name="accent_">#FF5722</color>
+    <color name="c_dark_blue_press">#24629d</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="half_black">#808080</color>
+    <color name="black_semi_transparent">#B2000000</color>
+
+    <color name="lineColor">#e0e0e0</color>
+    <color name="footerColor">#9e9e9e</color>
+    <color name="tabNotFocusColor">#a7d5ef</color>
+
+    <color name="backgroudColor">#eeeeee</color>
+    <color name="fontFocus">#455a64</color>
+
+</resources>

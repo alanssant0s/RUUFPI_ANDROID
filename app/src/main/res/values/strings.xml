@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RU UFPI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_unidade">Selecione </string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+    <string-array name="unidades_array">
+        <item>Teresina</item>
+        <item>Parnaíba</item>
+    </string-array>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_sobre">Sobre</string>
+</resources>
